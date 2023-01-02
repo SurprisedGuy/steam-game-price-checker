@@ -1,0 +1,29 @@
+{
+  "name": "gamepricechecker",
+  "version": "1.0.0",
+  "description": "Just a price checker for the specified price in steam",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SurprisedGuy/steam-game-price-checker.git"
+  },
+  "keywords": [
+    "Checker",
+    "Game",
+    "Steam",
+    "Price"
+  ],
+  "author": "SurprisedGuy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SurprisedGuy/steam-game-price-checker/issues"
+  },
+  "homepage": "https://github.com/SurprisedGuy/steam-game-price-checker",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "dotenv": "^16.0.3"
+  }
+}
